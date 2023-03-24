@@ -1,0 +1,17 @@
+{
+  "title": "BoNiji Doujinshi Collections",
+  "description": "Some doujinshi collection of BocchixNijika from Bocchi The Rock! Manga.",
+  "artist": "Various",
+  "author": "Various",
+  "cover": "https://i.imgur.com/feLfWSb.png",
+  "chapters": {
+    "1": {
+      "title": "The Same Feeling by nabehuki",
+      "volume": "0",
+      "groups": {
+        "Boniji Enjoyers": "/proxy/api/imgur/chapter/LrHeBb0/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
